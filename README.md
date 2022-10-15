@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Willian Pinheiro T.</h1>
 <h3 align="left">A economia é uma virtude distributiva e consiste não em poupar mas em escolher.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=willpin&label=Profile%20views&color=0e75b6&style=flat" alt="willpin" /> </p>
 
 - 🌱 I’m currently learning **Economia&Administração&Datascience**
 
