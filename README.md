@@ -2,15 +2,15 @@
 <h3 align="left"></h3>
 
 
-- 🌱 I’m currently learning **Economia&Administração&Datascience**
+- 🌱 I’m currently learning: **Economia&Administração&Datascience**
 
-- 👯 I’m looking to collaborate on [- TrabFinalDados -](https://github.com/WillPin/TrabFinalDados.git)
+- 👯 I’m looking to collaborate on: [- TrabFinalDados -](https://github.com/WillPin/TrabFinalDados.git)
 
-- 💬 Ask me about **economy&finance**
+- 💬 Ask me about: **economy&finance**
 
-- 📫 How to reach me **willian.pinheiro2000@gmail.com**
+- 📫 How to reach me: **willian.pinheiro2000@gmail.com**
 
-- ⚡ Fun fact **00>22>13**
+- ⚡ Fun fact: **00>22>13**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
