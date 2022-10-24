@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Willian Pinheiro!</h1>
+<h1 align="left">Hey 👋, I'm Willian Pinheiro!</h1>
 <h3 align="left"></h3>
 
 
