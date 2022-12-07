@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **willian.pinheiro2000@gmail.com**
 
-- 🎮 Fun fact: **SONY > MICROSOFT**
+- 🎮 Fun fact: **Sony > Microsoft**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
