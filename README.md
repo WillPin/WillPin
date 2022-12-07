@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning: **Economia&Administração&Datascience**
 
-- 👯 I’m looking to collaborate on: [- TrabFinalDados -](https://github.com/WillPin/TrabFinalDados.git)
+- 🦾 First academic work: [- TrabFinalDados -](https://github.com/WillPin/TrabFinalDados.git)
 
 - 💬 Ask me about: **economy&finance**
 
