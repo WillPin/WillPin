@@ -6,6 +6,8 @@
 
 - 🦾 First academic work: [- TrabFinalDados -](https://github.com/WillPin/TrabFinalDados.git)
 
+- 💯 New academic work: [- SimuCarteiraAcoes -](https://github.com/WillPin/SimuCarteiraAcoes)
+
 - 💬 Ask me about: **economy&finance**
 
 - 📫 How to reach me: **willian.pinheiro2000@gmail.com**
