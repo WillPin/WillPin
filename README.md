@@ -16,7 +16,7 @@
 
 💬 Ask me about **Finance & Investments**
 
-⚡ Fun fact **I'm not rich!**
+⚡ Fun fact **Will i am**
 
  </div>
  
